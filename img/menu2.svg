@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 29 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-15.9387,-16.6563)">
+        <g id="Group" transform="matrix(0.637756,0,0,0.583594,15.9387,16.6563)">
+            <path id="Shape" d="M39.742,0L4.258,0C1.916,0 0,1.929 0,4.286C0,6.643 1.916,8.571 4.258,8.571L39.742,8.571C42.084,8.571 44,6.643 44,4.286C44,1.929 42.084,0 39.742,0Z" style="fill:rgb(105,189,69);"/>
+            <path id="Shape1" d="M4.258,15.714C1.916,15.714 0,17.643 0,20C0,22.357 1.916,24.286 4.258,24.286L39.742,24.286C42.084,24.286 44,22.357 44,20C44,17.643 42.084,15.714 39.742,15.714L4.258,15.714Z" style="fill:rgb(105,189,69);"/>
+            <path id="Shape2" d="M39.742,31.429L4.258,31.429C1.916,31.429 0,33.357 0,35.714C0,38.071 1.916,40 4.258,40L39.742,40C42.084,40 44,38.071 44,35.714C44,33.357 42.084,31.429 39.742,31.429Z" style="fill:rgb(105,189,69);"/>
+        </g>
+    </g>
+</svg>
